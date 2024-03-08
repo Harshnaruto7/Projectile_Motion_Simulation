@@ -1,0 +1,14 @@
+{
+  "name": "projectile_motion",
+  "version": "1.0.0",
+  "description": "This is a projectile motion project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.162.0"
+  }
+}

@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #87CEEB; /* Light blue background for the body */
+    color: #FFFFFF; /* White text color for general readability */
+    font-family: Arial, sans-serif; /* A readable, sans-serif font for the body text */
+}
+
+canvas {
+    display: block;
+    margin: auto; /* Center the canvas horizontally */
+}
+
+h1 {
+    background-color: #FF6347; /* A tomato red background for the heading */
+    color: #FFFFFF; /* White color for the heading text */
+    font-size: 2.5em; /* XX-large size for the heading */
+    text-align: center; 
+    padding: 20px 0; /* 20px top and bottom padding */
+    margin-bottom: 20px; /* Space below the heading */
+
+}
+
+p.projectile-motion-description {
+    background-color: #F0E68C; /* A khaki background for the paragraph */
+    color: #000000; /* Black color for the paragraph text */
+    font-size: 1.25em; /* Large size for the paragraph text */
+    padding: 20px; /* Padding inside the paragraph box */
+    margin: 20px auto; /* Center the paragraph block with automatic horizontal margins */
+    max-width: 800px; /* Maximum width for better readability */
+    border-radius: 10px; /* Rounded corners for the paragraph box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+    text-align: center;
+}
